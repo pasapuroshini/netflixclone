@@ -1,17 +1,21 @@
 Netflix India Website
-Description
+
+
+Description:
 This project is a simple website template for Netflix India, allowing users to explore the services offered by Netflix, watch trailers, and find answers to frequently asked questions.
 
-Features
+Features:
 Hero section with background video and call-to-action
 Features section showcasing different aspects of Netflix
 FAQ section to answer common queries
 Footer with contact information and language selection
-Technologies Used
+
+Technologies Used:
 HTML5
 CSS3
 JavaScript
-External Libraries
+
+External Libraries:
 Font Awesome for icons
 Google Fonts for typography
 Setup
